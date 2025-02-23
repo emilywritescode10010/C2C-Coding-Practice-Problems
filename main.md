@@ -31,3 +31,17 @@ Example:
   Program: "Enter the temperature in Celsius:"
   User: "100"
   Output: "100° Celsius is 212° Fahrenheit."
+
+
+
+
+
+
+Problem 3: Longest Word Finder
+
+Description:
+Create a function that, given a sentence, determines the longest word and returns it. If there are multiple words of the same maximum length, return the first one that appears in the sentence.
+
+Example:
+ Input: "Coding is both fun and challenging"
+ Output: "challenging"
