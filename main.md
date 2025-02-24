@@ -45,3 +45,20 @@ Create a function that, given a sentence, determines the longest word and return
 Example:
  Input: "Coding is both fun and challenging"
  Output: "challenging"
+
+
+
+
+
+
+Problem 4: Rock, Paper, Scissors Game
+
+Description:
+Write a program that lets the user play a single round of Rock, Paper, Scissors against the computer. The computer should randomly choose one of the three options, and then the user will be prompted for their choice. The program then announces the result (win, lose, or draw).
+
+Example:
+ Conversation:
+  Program: "Choose: Rock, Paper, or Scissors?"
+  User: "Rock"
+  Computer randomly chooses "Scissors"
+  Output: "You chose Rock, and the computer chose Scissors. You win!"
